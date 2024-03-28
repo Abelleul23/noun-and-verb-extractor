@@ -1,0 +1,6 @@
+venv/
+env/
+.venv/
+.env/
+pdf_venv/
+.pdf_venv/
